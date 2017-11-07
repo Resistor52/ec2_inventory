@@ -1,0 +1,8 @@
+Account-ID,Account-Alias,In-Audit-Scope,Comments-Purpose
+159510917606,my-sandbox,N,This is my sandbox
+193364559896,acme-access,Y,This account is used for role assumption
+153176700225,acme-production,Y,This is the production account
+183371979408,acme-preprod,Y,This is the pre-production account
+102576726753,acme-test,N,This is the QA account
+110915132798,acme-dev1,N,This is developer account one
+125963322398,acme-dev2,N,This is developer account two
