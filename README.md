@@ -25,4 +25,4 @@ This script iterates through all AWS accounts listed in the
 [DescribeInstances](http://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.html)
 API call each time.
 
-The resulting output will look something like [ec2_inventory-2017-11-05](../master/ec2_inventory-2017-11-05).
+The resulting output will look something like [ec2_inventory-2017-11-05.csv](../master/ec2_inventory-2017-11-05.csv).
