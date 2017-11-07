@@ -21,8 +21,8 @@ is completely optional.
 
 ## Description
 This script iterates through all AWS accounts listed in the
-[AWS-account-list.csv](../blob/master/AWS-account-list.csv) and then iterates through all regions making the
+[AWS-account-list.csv](../master/AWS-account-list.csv) and then iterates through all regions making the
 [DescribeInstances](http://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.html)
 API call each time.
 
-The resulting output will look something like [ec2_inventory-2017-11-05](../blob/master/ec2_inventory-2017-11-05).
+The resulting output will look something like [ec2_inventory-2017-11-05](../master/ec2_inventory-2017-11-05).
